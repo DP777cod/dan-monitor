@@ -1,0 +1,9 @@
+{
+  "telegram_token": "123456:ABCDEF",
+  "telegram_chat_id": "987654321",
+  "email": "user@example.com",
+  "smtp_server": "smtp.example.com",
+  "smtp_port": 587,
+  "smtp_user": "user@example.com",
+  "smtp_pass": "dummy_password"
+}
